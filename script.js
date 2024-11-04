@@ -1,4 +1,4 @@
-const startDate = new Date('2023-01-08');
+const startDate = new Date('2022-01-08');
 
 document.getElementById('specialMessage').textContent = "Com amor! \u2764";
 
